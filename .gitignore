@@ -1,6 +1,6 @@
 train.ipynb
 *.mp4
 *.jpg
-*.ipynb
+
 *.h5
 *.pyc
